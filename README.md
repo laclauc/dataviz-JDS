@@ -1,4 +1,4 @@
-# dataviz-JDS
+# Data Visualization with Python (JDS)
 
 The following notebook serves as an introduction to data visualization with Python training course. 
 
