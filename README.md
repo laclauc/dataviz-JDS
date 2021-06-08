@@ -14,3 +14,15 @@ We will explore four different librairies:
 * Pandas: its main purpose is to handle data frames. It also provides basic visualization modules.
 * Seaborn: it provides a high-level interface to draw statistical graphics.
 * Plotly: interactive graphing library
+
+## Configuration and intallation
+
+### `pip`
+
+If you are managing Python packages (libraries) with pip, you can use the configuration file `requirements.txt` to install the specified packages with the specified version.
+
+Open a terminal, go in the directory where the file `requirement.txt` is and execute the following command
+
+```
+$ pip install -r requirements.txt
+```
