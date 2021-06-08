@@ -17,9 +17,9 @@ We will explore four different librairies:
 
 ## Configuration and intallation
 
-### `pip`
+### Installation with `pip`
 
-If you are managing Python packages (libraries) with pip, you can use the configuration file `requirements.txt` to install the specified packages with the specified version.
+If you are managing Python packages (libraries) with `pip`, you can use the configuration file `requirements.txt` to install the specified packages with the specified version.
 
 Open a terminal, go in the directory where the file `requirement.txt` is and execute the following command
 
