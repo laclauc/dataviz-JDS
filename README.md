@@ -26,3 +26,5 @@ Open a terminal, go in the directory where the file `requirement.txt` is and exe
 ```
 $ pip install -r requirements.txt
 ```
+
+#### The material was done by Baptiste Gregorutti and Charlotte Laclau
